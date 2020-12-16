@@ -23,6 +23,10 @@ Hello, I am working as the CEO of Prediction, and I am developing AI and Backend
 * Tensorflow, Pytorch with Python
 * RDS (Mysql)
 
+### :email: Email
+
+* insub789@gmail.com
+
 <!--
 **insub789/insub789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
